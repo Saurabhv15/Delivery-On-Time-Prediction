@@ -115,6 +115,15 @@ CMD ["streamlit", "run", "Delivery_api/app.py", "--server.port=8501", "--server.
 
 ---
 
+## 📸 Output
+
+Here is a screenshot of the model in action:
+
+<img width="899" height="889" alt="Screenshot 2025-07-26 143629" src="https://github.com/user-attachments/assets/5ee03108-152f-4be3-aed8-2182bd4c4ff1" />
+
+
+
+---
 ## 👨‍💻 Author
 
 **Saurabh Verma**  

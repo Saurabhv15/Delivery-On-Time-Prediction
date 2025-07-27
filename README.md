@@ -127,7 +127,7 @@ Here is a screenshot of the model in action:
 ## 👨‍💻 Author
 
 **Saurabh Verma**  
-M.Tech (Operations Research) | B.Tech (IT) | AI/ML | Data Science | NLP | Computer Vision  
+M.Tech | B.Tech (IT) | AI/ML | Data Science | NLP | Computer Vision  
 📫 saurabhvrm959@gmail.com 
 
 ---
